@@ -1,0 +1,7 @@
+[extension]
+id = "quokka"
+name = "Quokka"
+version = "0.1.0"
+description = "Live interactive scratchpad runner with instant expression evaluation"
+author = "biscuit-extensions"
+icon = "icon.png"
